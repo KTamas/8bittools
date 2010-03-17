@@ -1,1 +1,4 @@
 Various (ruby) scripts for scraping chiptune sites i.e. 8bitpeoples or 8bitcollective
+
+Files:
+ - 8bc_get_playlist.rb => Downloads an user's all music through their playlist file
